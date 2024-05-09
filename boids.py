@@ -552,6 +552,7 @@ for boid in boids:
 trying.legend().remove()
 plt.savefig("per boid")
 
+#hello
 
 """plt.figure(9)
 print(len(wind_strengths))
