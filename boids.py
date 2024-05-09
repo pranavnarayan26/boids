@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 """
-MILLING WORKS YAY FUCK THIS SHIT IT DOESN'T ANYMORE
+MILLING WORKS YAY nope IT DOESN'T ANYMORE
 
 width, height = 150
 depth = 15
